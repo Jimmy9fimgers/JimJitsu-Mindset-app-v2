@@ -1,0 +1,433 @@
+:root {
+  --r-bg: #101820;
+  --r-panel: #1b2730;
+  --r-text: #f1ede4;
+  --r-muted: #bac2c5;
+  --r-line: #41515c;
+  --r-gold: #dbc08a;
+}
+body {
+  background: var(--r-bg);
+  color: var(--r-text);
+}
+body.light {
+  --r-bg: #f4f1e9;
+  --r-panel: #fffdf8;
+  --r-text: #202b34;
+  --r-muted: #4f5e66;
+  --r-line: #a6afb1;
+  --r-gold: #705323;
+  background: var(--r-bg);
+  color: var(--r-text);
+}
+.image-mark {
+  background:
+    linear-gradient(#0000, #0000),
+    url("assets/apple-touch-icon.png") center / contain no-repeat;
+  color: transparent;
+  overflow: hidden;
+}
+.app {
+  max-width: 1080px;
+}
+.release-screen {
+  padding-top: 20px;
+}
+.release-screen h1 {
+  font-size: clamp(2.3rem, 6vw, 4rem);
+  line-height: 1.05;
+  margin: 12px 0 20px;
+}
+.release-screen h2 {
+  font-size: clamp(1.7rem, 4vw, 2.6rem);
+  margin: 8px 0 20px;
+}
+.release-screen h3 {
+  font-size: 1.35rem;
+  line-height: 1.35;
+}
+.release-screen p {
+  line-height: 1.75;
+}
+.release-screen .card {
+  background: var(--r-panel);
+  border: 1px solid var(--r-line);
+  margin: 18px 0;
+  padding: clamp(18px, 4vw, 32px);
+  color: var(--r-text);
+}
+.muted,
+.small,
+.release-screen small {
+  color: var(--r-muted);
+}
+.eyebrow {
+  color: var(--r-gold);
+}
+.release-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+.release-grid > .card {
+  margin: 0;
+}
+.release-screen label {
+  display: block;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 16px 0 8px;
+}
+.release-screen input,
+.release-screen textarea,
+.release-screen select,
+#volume {
+  width: 100%;
+  font: inherit;
+  color: var(--r-text);
+  background: var(--r-bg);
+  border: 1px solid var(--r-line);
+  padding: 12px;
+  border-radius: 9px;
+}
+.release-screen textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+.release-screen input[type="checkbox"] {
+  width: auto;
+  margin-right: 10px;
+}
+.release-screen input[type="file"] {
+  font-size: 0.85rem;
+}
+.release-screen button {
+  min-height: 44px;
+  white-space: normal;
+}
+.release-screen button:disabled {
+  opacity: 0.65;
+  cursor: default;
+}
+.release-screen .actions {
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.release-screen a {
+  color: var(--r-gold);
+  text-underline-offset: 4px;
+}
+.method {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 24px 0;
+}
+.method span {
+  border: 1px solid var(--r-line);
+  padding: 7px 12px;
+  border-radius: 30px;
+  color: var(--r-muted);
+  font-size: 0.8rem;
+}
+.mission-banner {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(24px, 6vw, 52px);
+  background: linear-gradient(125deg, #1a252c, #101820);
+  border: 1px solid #53606a;
+  border-radius: 20px;
+  color: #f7f2e7;
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+  gap: clamp(20px, 5vw, 44px);
+  align-items: center;
+}
+.mission-banner:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background:
+    radial-gradient(circle at 76% 32%, #b6091226, transparent 34%),
+    linear-gradient(180deg, #0000 0%, #101820b8 100%);
+  opacity: 1;
+  pointer-events: none;
+}
+.mission-banner-logo {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  max-width: 590px;
+  margin: 0 auto;
+  aspect-ratio: 1280 / 853;
+  object-fit: contain;
+  border-radius: 14px;
+  box-shadow: 0 22px 60px #0008;
+}
+.mission-copy {
+  position: relative;
+  z-index: 1;
+}
+.mission-banner > * {
+  position: relative;
+  z-index: 1;
+}
+.mission-banner p {
+  max-width: 590px;
+}
+.mission-banner .eyebrow {
+  color: #dbc08a;
+}
+.objective {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--r-line);
+}
+.objective:last-child {
+  border: 0;
+}
+.objective input {
+  margin: 10px 0;
+}
+.objective .done {
+  text-decoration: line-through;
+  color: var(--r-muted);
+}
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 4px 10px;
+  border-radius: 30px;
+  background: var(--r-bg);
+  border: 1px solid var(--r-line);
+  margin: 0 6px 8px 0;
+}
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 20px 0;
+}
+.stat {
+  padding: 18px 12px;
+  background: var(--r-panel);
+  border: 1px solid var(--r-line);
+  border-radius: 12px;
+}
+.stat strong {
+  display: block;
+  font-size: 2rem;
+  color: var(--r-gold);
+}
+.stat span {
+  font-size: 0.82rem;
+  color: var(--r-muted);
+}
+.rating-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.reader {
+  max-width: 740px;
+  margin: auto;
+}
+.reader .teaching p {
+  font-size: 1.09rem;
+  line-height: 1.9;
+  margin: 24px 0;
+}
+.lesson-list {
+  display: grid;
+  gap: 10px;
+  margin: 22px 0;
+}
+.lesson-list button {
+  text-align: left;
+  padding: 16px;
+}
+.week-bars {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  margin: 20px 0;
+}
+.week-day {
+  text-align: center;
+  padding: 15px 3px;
+  background: var(--r-bg);
+  border-radius: 8px;
+  font-size: 0.75rem;
+  border: 1px solid var(--r-line);
+}
+.week-day strong {
+  display: block;
+  font-size: 1.3rem;
+  color: var(--r-gold);
+}
+progress {
+  width: 100%;
+  height: 12px;
+  accent-color: var(--r-gold);
+}
+#saveStatus:not(:empty) {
+  position: fixed;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 90vw;
+  background: #f5e9ca;
+  color: #15232c;
+  padding: 12px 20px;
+  z-index: 100;
+  border: 1px solid #756342;
+  border-radius: 10px;
+  box-shadow: 0 6px 30px #0005;
+}
+.skip-link {
+  position: fixed;
+  top: -100px;
+  left: 20px;
+  z-index: 200;
+  background: white;
+  color: black;
+  padding: 12px;
+}
+.skip-link:focus {
+  top: 0;
+}
+:focus-visible {
+  outline: 3px solid var(--r-gold);
+  outline-offset: 4px;
+}
+.bottom-nav {
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1080px;
+}
+.bottom-nav button {
+  font-size: 1rem;
+}
+.bottom-nav button span {
+  font-size: 0.7rem;
+}
+.release-screen pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.release-screen details {
+  margin: 16px 0;
+}
+.release-screen summary {
+  cursor: pointer;
+  min-height: 44px;
+  padding: 12px 0;
+}
+.release-screen .primary {
+  background: var(--r-gold);
+  color: var(--r-bg);
+}
+.release-screen .secondary {
+  color: var(--r-text);
+  border: 1px solid var(--r-line);
+  background: transparent;
+}
+.release-screen [role="alert"] {
+  border-left: 4px solid #bd875e;
+  padding: 16px;
+}
+.print-report {
+  display: none;
+}
+@media (max-width: 640px) {
+  .release-grid {
+    grid-template-columns: 1fr;
+  }
+  .stat-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .rating-grid {
+    gap: 8px;
+  }
+  .rating-grid select {
+    padding: 9px 3px;
+  }
+  .week-bars {
+    gap: 4px;
+  }
+  .app {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .bottom-nav button {
+    padding: 12px 4px;
+  }
+  .music-dock {
+    bottom: 90px;
+  }
+  .release-screen .actions button {
+    flex: 1 1 120px;
+  }
+  .mission-banner {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .mission-banner-logo {
+    max-width: 100%;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .app,
+  .bottom-nav,
+  .music-dock,
+  #saveStatus,
+  .skip-link {
+    display: none !important;
+  }
+  .print-report {
+    display: block;
+    white-space: pre-wrap;
+    font:
+      12pt/1.6 Georgia,
+      serif;
+    color: black;
+  }
+}
+#mission-today {
+  align-self: end;
+  flex: 0 0 auto;
+  min-width: 95px;
+}
+.mission-banner .primary {
+  background: #dbc08a;
+  color: #14222b;
+}
+.mission-banner .secondary {
+  color: #f1ede4;
+  border-color: #89949b;
+}
+.objective textarea {
+  min-height: 88px;
+  line-height: 1.6;
+}
+.rating-grid select {
+  font-size: 0.9rem;
+}
+.audio-options {
+  flex-wrap: wrap;
+}
+.audio-options button {
+  min-width: 100px;
+}

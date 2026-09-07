@@ -1,0 +1,403 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "foundation",
+    "title": "The Foundation",
+    "status": "available",
+    "durationDays": 7,
+    "description": "Learn and practice Recognize, Separate, Choose, Act, and Review.",
+    "lessons": [
+      {
+        "schemaVersion": 1,
+        "id": "foundation-01",
+        "title": "Begin with an honest starting point",
+        "minutes": 6,
+        "scriptureId": "ps13923",
+        "teaching": [
+          "The Jimjitsu Mindset begins with recognition. Before you improve a response, you need to notice it. A tense jaw, a hurried answer, or an urge to disappear may tell you that something matters. Naming a feeling is different from obeying it. You can say “I feel angry” without deciding that anger should lead the conversation.",
+          "Psalm 139 closes with a request for God to search and lead the speaker. Our application is an invitation to honest examination, not a claim that every feeling reveals God's instructions. Make room for facts, bodily cues, and uncertainty. You do not need to turn your morning into a lengthy analysis.",
+          "Today, use a brief pause at one ordinary point of friction. Describe what happened without assigning motives. Name your feeling in one word. Then choose whether you need to respond now or make space first. Recognition gives you a place from which to act."
+        ],
+        "reflection": "What feeling do I usually cover with hurry, silence, or criticism?",
+        "exercise": "Write three short lines: what happened, what I felt, and what I do not yet know. Avoid words such as always and never.",
+        "action": "Use a ten-second pause before responding to one frustrating interruption.",
+        "prayer": "God, help me see honestly and respond with care. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "foundation-02",
+        "title": "Separate responsibility from control",
+        "minutes": 6,
+        "scriptureId": "prov35",
+        "teaching": [
+          "After recognizing the situation, separate your responsibility from the outcome. You can prepare an honest explanation; you cannot guarantee agreement. You can apologize; you cannot require immediate trust. This distinction protects you from both overreach and avoidance.",
+          "Proverbs 3 encourages trust and acknowledgment of God. It does not forbid careful reasoning or mean that every plan will work as hoped. Faithful responsibility includes checking facts, seeking counsel, and accepting that some questions remain open. What is outside your control may still matter deeply.",
+          "Draw two circles. In the inner circle, place your words, preparation, boundaries, and next action. Outside it, place other people's choices and outcomes you cannot command. If an item spans both, divide it into smaller parts. Work on one inner-circle item while bringing the rest honestly to prayer."
+        ],
+        "reflection": "Where am I trying to control a response instead of taking responsibility for my own action?",
+        "exercise": "Divide a current concern into what I can do, what I can influence, and what I cannot decide. Put one concrete item in each column.",
+        "action": "Take one preparation step you control and leave the other person's response open.",
+        "prayer": "Lord, give me wisdom for what is mine to do and patience with what is not. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "foundation-03",
+        "title": "Choose a response you can stand behind",
+        "minutes": 6,
+        "scriptureId": "micah68",
+        "teaching": [
+          "A choice becomes clearer when you ask what kind of conduct fits your values. Justice, mercy, and humility are useful questions for a difficult moment: Is this fair? Does it respect the person? Have I left room to be corrected? They do not replace facts or specialized advice when it is needed.",
+          "Micah 6:8 addresses the character of faithful living. Applying it today does not make your preferred answer a divine command. A responsible choice can acknowledge uncertainty and still be concrete. Sometimes that choice is speaking; sometimes it is pausing or asking for help.",
+          "Compare two realistic responses to an actual problem. Include their likely effects on other people, the facts you have, and the limits you need to respect. Choose the response you can explain honestly tomorrow. Avoid making a decision solely to relieve discomfort for the next five minutes."
+        ],
+        "reflection": "Which response fits my values even if it does not give immediate relief?",
+        "exercise": "Write two possible responses. Beside each, note its likely effect, uncertainty, and connection to a value you hold.",
+        "action": "Choose one respectful response and write the exact words or action you will use.",
+        "prayer": "God, help me act with justice, mercy, and humility. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "foundation-04",
+        "title": "Act at a workable scale",
+        "minutes": 6,
+        "scriptureId": "james122",
+        "teaching": [
+          "Once you have chosen a direction, make the next action small and observable. “Be a better husband” is a hope; “put my phone away and listen for ten minutes” is an action. Specificity helps you know what you intended and whether you did it.",
+          "James warns against hearing without doing. This is an invitation to put teaching into practice, not a demand to prove your worth through constant output. Appropriate action depends on capacity and circumstances. Rest, asking for support, or respecting a boundary can be responsible actions too.",
+          "Choose something you can begin today without waiting for a new identity or perfect mood. State where and when it will happen. If the action depends on another person, define your part rather than promising their response. When you finish, record the fact without turning it into a score of your character."
+        ],
+        "reflection": "What is the smallest action that would express my chosen response?",
+        "exercise": "Rewrite one vague intention using a verb, a time, and a clear finish. Check that the action is safe and within your control.",
+        "action": "Carry out the action and record what you actually did.",
+        "prayer": "Lord, help me move from good intentions to a faithful next step. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "foundation-05",
+        "title": "Review without putting yourself on trial",
+        "minutes": 6,
+        "scriptureId": "prov2416",
+        "teaching": [
+          "Review closes the loop. Ask what happened after your action, what helped, and what you would change. A review needs enough honesty to learn and enough mercy to return. Calling yourself a failure supplies neither useful detail nor a next step.",
+          "Proverbs describes the righteous rising after falling. This wisdom is not a promise that every loss disappears quickly. For our practice, it supports returning rather than treating a setback as the end of the road. Some results require grief, repair, or help before another attempt.",
+          "Look at yesterday's action. Separate the action you took from the outcome you could not control. Notice one thing that worked and one obstacle. Choose a single adjustment, such as a smaller task, a better time, or a clearer request. Repeating a lesson is welcome; the purpose is learning, not finishing a course as fast as possible."
+        ],
+        "reflection": "What would I learn if I described the miss without judging my whole character?",
+        "exercise": "Use four sentences: I intended; I did; I noticed; next time I will. Keep each sentence specific.",
+        "action": "Adjust one commitment based on what you learned rather than abandoning the whole plan.",
+        "prayer": "God, help me face what happened and begin again wisely. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "foundation-06",
+        "title": "Use the method in a relationship",
+        "minutes": 6,
+        "scriptureId": "james119",
+        "teaching": [
+          "Relationships make the method concrete. Recognize your defensiveness. Separate your words from the other person's reaction. Choose a response that protects dignity. Act by listening or making a clear request. Review whether your conduct matched the relationship you want to build.",
+          "James's instruction to be quick to hear and slow to speak is useful before disagreement becomes a contest. Listening is not accepting mistreatment, and reconciliation cannot be forced. If there are threats, coercion, or abuse, prioritize safety and outside support instead of using a communication exercise to endure danger.",
+          "For a safe ordinary disagreement, ask the other person what they most need you to understand. Summarize before replying. Then state your perspective without claims about their motives. If either person is overwhelmed, ask to pause and agree on a realistic return time. Your task is your conduct, not winning a particular response."
+        ],
+        "reflection": "What changes when I aim to understand before I defend?",
+        "exercise": "Write a one-sentence summary of the other person's concern and one sentence about your own. Remove insults and mind-reading.",
+        "action": "In a safe conversation, ask one clarifying question and let the answer finish.",
+        "prayer": "Lord, help me listen with humility and speak truth with care. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "foundation-07",
+        "title": "Build your personal practice",
+        "minutes": 6,
+        "scriptureId": "gal69",
+        "teaching": [
+          "The method should help you live, not become another burden. You can use all five steps for a difficult decision and a ten-second version for a small interruption. Choose a rhythm that fits your actual responsibilities. Missed days do not erase what you have learned.",
+          "Galatians encourages perseverance in doing good. That perseverance includes changing an unrealistic plan and receiving help. A useful practice has room for limited energy, family demands, and seasons of grief. You do not need a flawless streak to keep returning.",
+          "Review the week and identify the step that helped most: Recognize, Separate, Choose, Act, or Review. Put that step at a natural point in your day. Write a short mission statement and one next-week commitment. You may continue into Discipline & Consistency, repeat these lessons, or practice the framework without enrolling in anything else."
+        ],
+        "reflection": "Which part of the method do I want to keep close next week?",
+        "exercise": "Write your five-step version in your own words. Underline the step you tend to skip and choose a daily cue for it.",
+        "action": "Set one next-week commitment in the After-Action Report.",
+        "prayer": "God, help me persevere with humility and a willing heart. Amen."
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "discipline",
+    "title": "Discipline & Consistency",
+    "status": "available",
+    "durationDays": 14,
+    "description": "Build a workable habit through attention, practice, rest, and honest review.",
+    "lessons": [
+      {
+        "schemaVersion": 1,
+        "id": "discipline-01",
+        "title": "Choose one commitment",
+        "minutes": 6,
+        "scriptureId": "luke1610",
+        "teaching": [
+          "Discipline starts with a promise small enough to understand. If you begin with ten changes, you may not learn what made any one of them work. Choose a single commitment that serves a value rather than one designed to impress someone.",
+          "Luke's teaching about faithfulness in little things offers a useful lens for ordinary responsibility. The application here is care with what is entrusted to you, not a guarantee that small habits will produce wealth or status. Your commitment should fit your circumstances and respect your limits.",
+          "Write the behavior, when it will happen, and why it matters. Prefer “read one paragraph after breakfast” over “be more spiritual.” Leave room for unexpected demands. A modest commitment can teach you how to return and become trustworthy in a practical area of life."
+        ],
+        "reflection": "Which commitment would serve my values even if nobody noticed it?",
+        "exercise": "List three possible habits. Choose one based on usefulness and feasibility, then state its clear finish.",
+        "action": "Complete the smallest useful version of your chosen habit today.",
+        "prayer": "Lord, help me care faithfully for what is within my reach. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-02",
+        "title": "Notice the cue",
+        "minutes": 6,
+        "scriptureId": "prov425",
+        "teaching": [
+          "Repeated behavior often begins before we consciously choose it. A notification, a room, a time of day, or a feeling can pull attention toward a familiar action. Recognize the cue without treating yourself as helpless in front of it.",
+          "Proverbs uses the image of directing your gaze and path. For today's practice, pay attention to the place where a choice begins. You are observing an ordinary pattern, not diagnosing yourself. A clear cue can support a helpful action as well as trigger an unhelpful one.",
+          "Notice what happens immediately before your chosen habit or avoidance. Pick a dependable event, such as putting a mug in the sink, and attach the small action to it. The cue should be something that already happens rather than another task you must remember. Try it once and observe the result."
+        ],
+        "reflection": "What usually happens just before I follow through or put this off?",
+        "exercise": "Describe the last two occasions you intended the habit. Note location, preceding event, and distraction.",
+        "action": "Link your small action to one existing daily event and try it.",
+        "prayer": "God, help me notice where my attention goes and choose wisely. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-03",
+        "title": "Make the first step easier",
+        "minutes": 6,
+        "scriptureId": "james122",
+        "teaching": [
+          "Friction matters. A book hidden under papers or a task with no clear starting point asks you to decide again before beginning. Removing one obstacle can help more than giving yourself another speech.",
+          "James connects hearing with doing. Applying that connection includes arranging practical conditions for action. Preparation is useful when it leads to practice; it becomes avoidance when it keeps expanding and replaces the task. Aim for just enough setup to make the next step clear.",
+          "Place the needed item where you will use it, open the relevant document, or write the first small instruction. Keep the change modest and reversible. Then do the actual habit once. Review whether the setup helped rather than assuming a beautiful system guarantees follow-through."
+        ],
+        "reflection": "What unnecessary step stands between me and starting?",
+        "exercise": "Write the first three steps of your routine. Remove or simplify one that does not add value.",
+        "action": "Prepare your space for two minutes, then complete the habit.",
+        "prayer": "Lord, help me prepare simply and act faithfully. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-04",
+        "title": "Plan for interruption",
+        "minutes": 6,
+        "scriptureId": "matt634",
+        "teaching": [
+          "A routine that only works on an empty day may not fit your life. Family needs, work changes, and limited energy are ordinary conditions to plan around. Separate the essential purpose of your habit from its ideal form.",
+          "Matthew's teaching directs attention toward today's concerns. It does not require neglecting future planning. Here the application is to make a workable choice for the day you actually have rather than abandoning everything because the preferred time disappeared.",
+          "Choose a fallback version of your habit before you need it. Five quiet minutes might become one honest sentence of prayer; a long work session might become identifying the next action. A fallback is not a punishment or a secret failure. It is a way of keeping the purpose present when circumstances change."
+        ],
+        "reflection": "What is the smallest version that still serves this habit's purpose?",
+        "exercise": "Write an ordinary version, a busy-day version, and a condition under which rest or help takes priority.",
+        "action": "Use the appropriate version today and record which one you chose.",
+        "prayer": "God, help me respond wisely to the day in front of me. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-05",
+        "title": "Record facts, not worth",
+        "minutes": 6,
+        "scriptureId": "ps13923",
+        "teaching": [
+          "Tracking is useful when it helps you remember what happened. It becomes harmful when a mark on a calendar turns into a judgment of your value. Record completion, a deliberate skip, or a revision accurately. Each can teach you something.",
+          "Honest examination before God includes both effort and limitation. You do not need to exaggerate success or hide difficulty. A factual record lets you ask better questions about time, support, and the size of a commitment.",
+          "Look at the past few days of your habit. Do not invent entries for days you cannot remember. Notice when it fit naturally and when it did not. Choose one adjustment from the evidence. Keep the record private unless you decide a trusted person would help you understand it."
+        ],
+        "reflection": "What can this record tell me, and what can it never tell me about my worth?",
+        "exercise": "Review three attempts and describe only observable actions and circumstances.",
+        "action": "Record today's action accurately, including a skip if that was the responsible choice.",
+        "prayer": "Lord, give me honesty without contempt and hope without pretending. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-06",
+        "title": "Practice a deliberate pause",
+        "minutes": 6,
+        "scriptureId": "prov1632",
+        "teaching": [
+          "Self-control includes creating time between an urge and an action. You may notice the urge to interrupt, open an app, or avoid a difficult task. A pause lets you recognize the urge and choose a response; it does not require the feeling to vanish.",
+          "Proverbs values governing one's spirit over displays of power. In daily life, strength may look like putting the phone down or postponing a heated reply. This is practice in ordinary choices, not a replacement for support with compulsive behavior or serious distress.",
+          "Choose one low-stakes moment today. When the urge appears, pause long enough to name what you want and what action fits your values. You can then proceed, change direction, or ask for help. Review the choice with curiosity rather than demanding perfect control over every thought."
+        ],
+        "reflection": "Which ordinary urge would benefit from a brief pause?",
+        "exercise": "Name one cue, the urge it creates, and a response you would prefer. Keep the example manageable.",
+        "action": "Pause once before acting on that cue and record what you chose.",
+        "prayer": "God, help me govern my actions with patience and care. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-07",
+        "title": "Review the first week",
+        "minutes": 6,
+        "scriptureId": "gal69",
+        "teaching": [
+          "A week of practice gives you evidence, even if it contains missed attempts. Review the size of the habit, the cue, the environment, and the fallback. Ask which part needs adjustment before deciding that you simply need more willpower.",
+          "Perseverance in doing good is not the same as repeating an unworkable plan unchanged. Faithfulness can include simplification, rest, and better support. Notice a specific instance of follow-through and the conditions that helped it happen.",
+          "Choose one element to keep and one to change. If the habit never fit, reduce it or replace it with a more useful commitment. Do not add several new habits to compensate for disappointment. The second week will build on a clearer understanding of your actual life."
+        ],
+        "reflection": "What helped most, and what obstacle deserves a practical adjustment?",
+        "exercise": "Write a brief After-Action Report using the real record of this week.",
+        "action": "Make one adjustment and schedule the next attempt.",
+        "prayer": "Lord, help me learn from this week and continue wisely. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-08",
+        "title": "Protect your attention",
+        "minutes": 6,
+        "scriptureId": "prov425",
+        "teaching": [
+          "Attention is a limited resource that other people and systems compete for. Choose when you want to be available and when a bounded task needs focus. Protecting fifteen minutes can be more realistic than demanding an uninterrupted morning.",
+          "Directing your path does not mean treating every interruption as an enemy. Some interruptions are responsibilities or opportunities to care. Separate necessary availability from automatic checking, and communicate a limit when someone depends on you.",
+          "Pick one focus interval. Silence optional alerts or move a distracting item, while preserving any channel you genuinely need for urgent contact. State the task before beginning. When the interval ends, stop and review what helped. The point is intentional attention, not proving you can ignore people."
+        ],
+        "reflection": "Which distraction is optional, and which interruption is a real responsibility?",
+        "exercise": "Sort common interruptions into necessary, negotiable, and optional. Choose one optional source to reduce.",
+        "action": "Complete a short focused interval on a defined responsibility.",
+        "prayer": "God, help me give my attention where it is needed. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-09",
+        "title": "Let rest support consistency",
+        "minutes": 6,
+        "scriptureId": "mark631",
+        "teaching": [
+          "Exhaustion can make a simple habit feel like a demand for heroism. A sustainable practice includes recovery. Rest is not a prize withheld until everything is finished; it is part of caring for the capacity you use to serve.",
+          "Mark describes Jesus inviting the apostles to rest after demanding work. We apply this as permission to attend to limits, not as a prescribed health routine. Your needs and restrictions may differ from someone else's. Choose a restorative option that fits your circumstances.",
+          "Notice whether your habit competes with needed sleep, care, or recovery. Adjust its timing or scale if necessary. Set one boundary around stopping work or taking a quiet break. Review whether this makes returning more possible, without expecting a single pause to solve long-term exhaustion."
+        ],
+        "reflection": "What limit have I been ignoring in the name of consistency?",
+        "exercise": "Compare your habit's timing with your actual energy and responsibilities. Identify a more sustainable option.",
+        "action": "Take an appropriate restorative break or move the habit to a better time.",
+        "prayer": "Lord, help me honor my limits and receive rest with gratitude. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-10",
+        "title": "Ask for useful accountability",
+        "minutes": 6,
+        "scriptureId": "eccl49",
+        "teaching": [
+          "Accountability works best when expectations are clear and participation is voluntary. A trusted person can ask what you intended, what happened, and what support would help. They do not need access to your private journal or authority over your choices.",
+          "Ecclesiastes describes the help people can offer one another. Mutual support is different from surveillance, public embarrassment, or coercion. Choose someone who respects boundaries and can listen without making your progress a contest.",
+          "Decide exactly what you would like to share. Ask whether the person is willing to check in at a specific time. Explain what helpful feedback looks like and what you do not want shared. If no suitable person is available, use your private tracker while you continue building real-world connection."
+        ],
+        "reflection": "What kind of check-in would help without feeling controlling?",
+        "exercise": "Draft an invitation naming the commitment, check-in time, and privacy boundary.",
+        "action": "If appropriate, invite one trusted person to a voluntary check-in; otherwise set a private review time.",
+        "prayer": "God, help me give and receive honest, respectful support. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-11",
+        "title": "Repair a missed promise",
+        "minutes": 6,
+        "scriptureId": "eph432",
+        "teaching": [
+          "When a missed commitment affects someone else, private regret may not be enough. Recognize the effect, communicate accurately, and offer a feasible repair. Avoid promising twice as much merely to relieve embarrassment.",
+          "Kindness and forgiveness do not remove the need for changed behavior. The other person may need time or may decline your offer. Your responsibility is to be truthful, respect their boundaries, and follow through on what you can actually do.",
+          "Choose one outstanding promise. If contact is safe and appropriate, acknowledge what you said you would do and what happened instead. Ask whether your proposed next step would help. Record a realistic commitment rather than an idealized one. Review the repair by your conduct, not by whether you received immediate reassurance."
+        ],
+        "reflection": "What repair is useful to the person affected rather than just comforting to me?",
+        "exercise": "Write an acknowledgment, the effect you understand, and a realistic proposed repair.",
+        "action": "Communicate one accurate update and carry out the agreed next step if possible.",
+        "prayer": "Lord, help me own my actions and repair with humility. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-12",
+        "title": "Connect the habit to service",
+        "minutes": 6,
+        "scriptureId": "heb1024",
+        "teaching": [
+          "A habit becomes more meaningful when you can see whom it serves. Orderly work may spare a colleague confusion. A brief evening reset may help you arrive at home with attention available. The purpose is larger than maintaining a mark on a chart.",
+          "Hebrews encourages consideration of how to stir up love and good works. This is an invitation to useful care, not pressure to make every moment visibly productive. Sometimes your routine serves others best by helping you rest or keep a reasonable boundary.",
+          "Write the connection between your habit and a person or value. If you cannot find one, reconsider whether the habit deserves your time. Choose a concrete expression of service today that respects what the recipient actually needs. Let usefulness guide you more than the appearance of discipline."
+        ],
+        "reflection": "Who benefits from this practice, and how do I know it helps?",
+        "exercise": "Complete the sentence: This habit supports this value by making this action more possible.",
+        "action": "Use the capacity or attention from your habit for one small act of service.",
+        "prayer": "God, let my practice grow into love expressed in action. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-13",
+        "title": "Choose what to keep",
+        "minutes": 6,
+        "scriptureId": "ps905",
+        "teaching": [
+          "Not every habit should last forever. Some serve a season; others need revision as responsibilities change. Discernment includes ending an unhelpful routine deliberately rather than carrying it from guilt.",
+          "Psalm 90 asks for wisdom in the use of our days. Our application is to choose what deserves continued attention. A calendar crowded with good intentions can still leave no room for the people and duties you value most. You may need fewer commitments, more clearly kept.",
+          "Review the habit's usefulness, effort, and effect on the rest of life. Decide whether to continue, reduce, replace, or stop it. If others rely on the commitment, communicate the change. Then choose one clear practice for the coming week. You can return to this program without losing the record of what you learned."
+        ],
+        "reflection": "Does this routine still serve its purpose at a reasonable cost to my time and energy?",
+        "exercise": "Write the benefit, burden, and possible adjustment of your habit. Choose one of four decisions: keep, reduce, replace, or stop.",
+        "action": "Record your decision and update next week's action plan.",
+        "prayer": "Lord, teach me to use my days with wisdom and care. Amen."
+      },
+      {
+        "schemaVersion": 1,
+        "id": "discipline-14",
+        "title": "Continue without a perfect streak",
+        "minutes": 6,
+        "scriptureId": "prov2416",
+        "teaching": [
+          "The end of a program is a chance to choose your next practice, not a test of whether you have become a different person. You have tried cues, simpler starts, fallbacks, review, rest, and support. Keep the tools that fit and revise what does not.",
+          "Returning after a fall requires both courage and practical adjustment. You can celebrate a real change while acknowledging unfinished work. The completed lessons record participation; they do not certify character or guarantee a future without setbacks.",
+          "Write a simple continuation plan: one commitment, one cue, one fallback, and one review time. Include how you will respond to a missed day with a factual review and a manageable return. Keep the plan where you can find it. Repeat a lesson whenever it would help, and let daily life supply the practice."
+        ],
+        "reflection": "What response to a future missed day would make a wise return more likely?",
+        "exercise": "Write a four-line continuation plan and a sentence describing how you will respond to a miss.",
+        "action": "Save one next-week focus and action in the After-Action Report.",
+        "prayer": "God, help me continue with honesty, patience, and hope. Amen."
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "faith",
+    "title": "Faith Under Pressure",
+    "status": "draft",
+    "durationDays": 14,
+    "description": "Trust, prayer, perseverance, and uncertainty.",
+    "lessons": []
+  },
+  {
+    "schemaVersion": 1,
+    "id": "relationships",
+    "title": "Marriage & Relationships",
+    "status": "draft",
+    "durationDays": 14,
+    "description": "Listening, accountability, repair, respect, and communication.",
+    "lessons": []
+  },
+  {
+    "schemaVersion": 1,
+    "id": "family",
+    "title": "Fatherhood & Family",
+    "status": "draft",
+    "durationDays": 14,
+    "description": "Presence, patience, boundaries, and example.",
+    "lessons": []
+  },
+  {
+    "schemaVersion": 1,
+    "id": "purpose",
+    "title": "Finding Your Purpose",
+    "status": "draft",
+    "durationDays": 14,
+    "description": "Values, service, work, and meaningful goals.",
+    "lessons": []
+  },
+  {
+    "schemaVersion": 1,
+    "id": "fire",
+    "title": "Facing the Fire",
+    "status": "draft",
+    "durationDays": 14,
+    "description": "Constructive responses to setbacks, anger, grief, and pressure.",
+    "lessons": []
+  }
+]

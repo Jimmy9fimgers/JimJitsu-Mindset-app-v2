@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#101b1d" />
+    <meta
+      name="description"
+      content="A God-centered daily companion for men. Strength, faith, and the next right step."
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="apple-mobile-web-app-title" content="Stand Firm" />
+    <link rel="icon" href="assets/icon-192.png" />
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="release.css" />
+    <title>Stand Firm — Jimjitsu Mindset</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+  </head>
+  <body>
+    <a class="skip-link" href="#missionScreen">Skip to content</a>
+    <div id="saveStatus" role="status" aria-live="polite"></div>
+    <main class="app">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark image-mark" aria-hidden="true"></span
+          ><span>STAND FIRM<small>JIMJITSU MINDSET</small></span>
+        </div>
+        <button
+          class="icon-button"
+          id="themeToggle"
+          type="button"
+          aria-label="Switch theme"
+        >
+          ◐
+        </button>
+      </header>
+      <section class="screen" data-screen="home" aria-labelledby="home-title">
+        <div class="hero">
+          <div
+            class="hero-art"
+            role="img"
+            aria-label="A mountain summit under a golden sunrise"
+          >
+            <div class="sun"></div>
+            <div class="mountain mountain-back"></div>
+            <div class="mountain mountain-front"></div>
+            <div class="horizon"></div>
+            <span class="art-caption">FAITH · STRENGTH · PURPOSE</span>
+          </div>
+          <div class="hero-copy">
+            <div class="eyebrow">A place to return to</div>
+            <h1 id="home-title">Stand<br /><em>Firm.</em></h1>
+            <p>
+              Life gets heavy. You don't have to have every answer. Start with
+              God, take responsibility for what is yours, and choose the next
+              right step.
+            </p>
+            <div class="actions">
+              <button class="primary" type="button" data-go="facing">
+                What are you facing?</button
+              ><button class="secondary" type="button" data-go="reset">
+                Find peace
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="section-label">
+          Today's stand <span id="todayDate"></span>
+        </div>
+        <article class="card daily">
+          <div class="eyebrow" id="dailyNumber">DAY 01 / 07</div>
+          <h2 id="dailyTitle">Begin again.</h2>
+          <p id="dailyReflection"></p>
+          <div class="verse">
+            <span id="dailyRef"></span>
+            <blockquote id="dailyVerse"></blockquote>
+            <span class="translation">WORLD ENGLISH BIBLE</span>
+          </div>
+          <div class="action-panel">
+            <div class="eyebrow">THE NEXT RIGHT STEP</div>
+            <p id="dailyAction"></p>
+            <button class="secondary" id="completeDaily" type="button">
+              Mark today's action complete
+            </button>
+          </div>
+        </article>
+        <div class="section-label">A few doors</div>
+        <div class="quick-grid">
+          <button class="quick-link" type="button" data-go="facing">
+            <span class="quick-symbol">◇</span><strong>What I'm Facing</strong
+            ><small>Guidance for the hard moments.</small></button
+          ><button class="quick-link" type="button" data-go="reset">
+            <span class="quick-symbol">◌</span><strong>Find Peace</strong
+            ><small>Music, breathing, prayer.</small></button
+          ><button class="quick-link" type="button" data-go="scripture">
+            <span class="quick-symbol">✦</span><strong>Scripture</strong
+            ><small>Words to carry with you.</small></button
+          ><button class="quick-link" type="button" data-go="guide">
+            <span class="quick-symbol">⌁</span><strong>My Guide</strong
+            ><small>Private reflection and next steps.</small>
+          </button>
+        </div>
+      </section>
+      <section
+        class="screen"
+        data-screen="facing"
+        aria-labelledby="facing-title"
+        hidden
+      >
+        <div class="eyebrow">When life gets heavy</div>
+        <h2 id="facing-title">What are you facing?</h2>
+        <p class="muted">
+          Choose what is closest. You don't need the perfect words. There is a
+          next step from here.
+        </p>
+        <div class="section-label">Choose a situation</div>
+        <div class="situation-grid" id="situationGrid"></div>
+        <article
+          class="card guidance"
+          id="guidancePanel"
+          hidden
+          aria-live="polite"
+        >
+          <div class="eyebrow" id="guidanceLabel"></div>
+          <h3 id="guidanceTitle"></h3>
+          <p class="lead" id="guidanceMessage"></p>
+          <div class="verse">
+            <span id="guidanceRef"></span>
+            <blockquote id="guidanceVerse"></blockquote>
+            <span class="translation">WORLD ENGLISH BIBLE</span>
+          </div>
+          <div class="action-panel">
+            <div class="eyebrow">DO THIS NEXT</div>
+            <p id="guidanceAction"></p>
+          </div>
+          <details class="prayer">
+            <summary>A short prayer</summary>
+            <p id="guidancePrayer"></p>
+          </details>
+          <div class="actions">
+            <button class="primary" id="saveGuidance" type="button">
+              Save this passage</button
+            ><button class="secondary" id="guideFromSituation" type="button">
+              Reflect further
+            </button>
+          </div>
+        </article>
+      </section>
+      <section
+        class="screen"
+        data-screen="reset"
+        aria-labelledby="reset-title"
+        hidden
+      >
+        <div class="eyebrow">Power & peace</div>
+        <h2 id="reset-title">Find your footing.</h2>
+        <p class="muted">
+          You can slow down without giving up. Choose what you need in this
+          moment.
+        </p>
+        <div class="reset-visual" id="resetVisual">
+          <div class="breath-ring">
+            <span id="breathText">Be still.</span
+            ><small id="breathCountdown">At your own pace</small>
+          </div>
+        </div>
+        <div class="card">
+          <div class="eyebrow">A THREE-MINUTE RESET</div>
+          <h3>You don't have to solve everything right now.</h3>
+          <p>
+            Find a comfortable position. Breathe naturally, or follow the
+            optional gentle rhythm. If you feel dizzy or uncomfortable, stop and
+            return to your normal breathing.
+          </p>
+          <div class="actions">
+            <button class="primary" id="breathToggle" type="button">
+              Start breathing guide</button
+            ><button class="secondary" id="breathReset" type="button">
+              Reset
+            </button>
+          </div>
+          <p class="small" id="breathStatus" aria-live="polite">
+            Ready when you are.
+          </p>
+        </div>
+        <div class="section-label">Choose your atmosphere</div>
+        <div class="card">
+          <div class="audio-options">
+            <button
+              class="audio-choice"
+              data-track="focus"
+              type="button"
+              aria-pressed="false"
+            >
+              <strong>Focus</strong><span>Steady Attention · demo</span></button
+            ><button
+              class="audio-choice"
+              data-track="power"
+              type="button"
+              aria-pressed="false"
+            >
+              <strong>Power</strong><span>Rise with resolve</span></button
+            ><button
+              class="audio-choice"
+              data-track="dusk"
+              type="button"
+              aria-pressed="false"
+            >
+              <strong>Dusk Hush</strong><span>Breathing exercise</span>
+            </button>
+          </div>
+          <p class="small">
+            Start the breathing guide to begin Dusk Hush, or choose another
+            atmosphere manually.
+          </p>
+        </div>
+        <div class="section-label">A moment with God</div>
+        <div class="card">
+          <div class="eyebrow">PSALM 46:10</div>
+          <blockquote class="big-quote">
+            “Be still, and know that I am God. I will be exalted among the
+            nations. I will be exalted on the earth.”
+          </blockquote>
+          <p class="muted">
+            Silence does not have to be empty. Let this minute be enough to
+            begin.
+          </p>
+          <details class="prayer">
+            <summary>Open a short prayer</summary>
+            <p>
+              Lord, quiet what is racing inside me. Give me wisdom for what I
+              can change, patience for what I cannot, and courage to take the
+              next right step. Amen.
+            </p>
+          </details>
+        </div>
+        <div class="section-label">When you need more support</div>
+        <div class="card support">
+          <p>
+            If you feel in immediate danger or might hurt yourself or someone
+            else, seek immediate help and contact someone who can be with you.
+            In the U.S., call or text 988 for crisis support, or call 911 for an
+            immediate emergency.
+          </p>
+        </div>
+      </section>
+      <section
+        class="screen"
+        data-screen="scripture"
+        aria-labelledby="scripture-title"
+        hidden
+      >
+        <div class="eyebrow">Words to carry</div>
+        <h2 id="scripture-title">Scripture.</h2>
+        <p class="muted">
+          A small, curated library. Read the passage, reflect, and keep the
+          words that meet you where you are.
+        </p>
+        <div class="section-label">Your saved passages</div>
+        <div id="savedVerses" class="saved-list"></div>
+        <div class="section-label">The library</div>
+        <div id="scriptureList" class="scripture-list"></div>
+        <p class="small source-note">
+          Scripture passages are from the World English Bible (public domain).
+          Reflections are original application content and are not Bible
+          quotations.
+        </p>
+      </section>
+      <section
+        class="screen"
+        data-screen="guide"
+        aria-labelledby="guide-title"
+        hidden
+      >
+        <div class="eyebrow">A private place to think</div>
+        <h2 id="guide-title">The next right step.</h2>
+        <p class="muted">
+          Put a little of the weight into words. The first version uses curated,
+          offline guidance. Live AI is not connected yet.
+        </p>
+        <div class="card guide-card">
+          <div class="guide-avatar" aria-hidden="true">✦</div>
+          <div>
+            <div class="eyebrow">STAND FIRM GUIDE · OFFLINE</div>
+            <p id="guideIntro">
+              Tell me what is weighing on you, or choose a topic. We can
+              identify what matters and one step you can take.
+            </p>
+          </div>
+          <label for="guideInput" class="field-label"
+            >What's on your mind?</label
+          ><textarea
+            id="guideInput"
+            rows="4"
+            maxlength="2000"
+            placeholder="I'm having a hard time with..."
+            spellcheck="true"
+          ></textarea>
+          <div class="actions">
+            <button class="primary" id="guideSubmit" type="button">
+              Find a next step</button
+            ><button class="secondary" id="guideClear" type="button">
+              Clear
+            </button>
+          </div>
+          <p class="small">
+            This demo does not send your words to a server. It offers
+            topic-based guidance, not a generated AI response.
+          </p>
+          <div
+            class="guide-result"
+            id="guideResult"
+            hidden
+            aria-live="polite"
+          ></div>
+        </div>
+        <div class="section-label">Your private journal</div>
+        <div class="card">
+          <p class="muted">
+            A place to record what happened, what you learned, and what you'll
+            do next. Saved only in this browser.
+          </p>
+          <label class="field-label" for="journalInput"
+            >Today's reflection</label
+          ><textarea
+            id="journalInput"
+            rows="5"
+            maxlength="5000"
+            placeholder="Today I need to remember..."
+          ></textarea>
+          <div class="actions">
+            <button class="primary" id="journalSave" type="button">
+              Save reflection</button
+            ><button class="secondary" id="journalClear" type="button">
+              Clear draft
+            </button>
+          </div>
+          <p id="journalStatus" class="small" aria-live="polite"></p>
+          <div id="journalEntries" class="journal-list"></div>
+        </div>
+        <div class="section-label">A reminder</div>
+        <div class="card">
+          <blockquote class="big-quote">
+            You can be honest about where you are and still take responsibility
+            for where you go next.
+          </blockquote>
+          <p class="muted">
+            Faith is not pretending the hard things aren't hard. It is choosing
+            how to meet them.
+          </p>
+        </div>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="mission"
+        id="missionScreen"
+        hidden
+      >
+        <h2>Daily Mission</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="training"
+        id="trainingScreen"
+        hidden
+      >
+        <h2>Training Ground</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="review"
+        id="reviewScreen"
+        hidden
+      >
+        <h2>After-Action Report</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="personal"
+        id="personalScreen"
+        hidden
+      >
+        <h2>My Mission</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="journal"
+        id="journalScreen"
+        hidden
+      >
+        <h2>Journal</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="library"
+        id="libraryScreen"
+        hidden
+      >
+        <h2>Scripture Library</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="accountability"
+        id="accountabilityScreen"
+        hidden
+      >
+        <h2>Accountability</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="body"
+        id="bodyScreen"
+        hidden
+      >
+        <h2>Body & Discipline</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="settings"
+        id="settingsScreen"
+        hidden
+      >
+        <h2>Settings</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <section
+        class="screen release-screen"
+        data-screen="more"
+        id="moreScreen"
+        hidden
+      >
+        <h2>Your practice</h2>
+        <p>Loading your private workspace…</p>
+      </section>
+      <footer class="footer-note">
+        STAND FIRM · JIMJITSU MINDSET
+        <span>Faith in action, one day at a time.</span>
+      </footer>
+    </main>
+    <div class="music-dock" id="musicDock" hidden>
+      <div class="music-copy">
+        <div class="eyebrow">NOW PLAYING</div>
+        <strong id="musicTitle">Power</strong
+        ><small id="musicStatus" aria-live="polite">Ready to play</small>
+      </div>
+      <button
+        class="dock-button"
+        id="musicToggle"
+        type="button"
+        aria-label="Play music"
+      >
+        ▶</button
+      ><button
+        class="dock-button"
+        id="musicRestart"
+        type="button"
+        aria-label="Restart music"
+      >
+        ↺</button
+      ><button
+        class="dock-button"
+        id="musicClose"
+        type="button"
+        aria-label="Close music player"
+      >
+        ×
+      </button>
+    </div>
+    <audio id="soundtrack" preload="none" loop playsinline></audio>
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <button class="nav-button" data-go="mission">
+        ☀<span>Daily Mission</span></button
+      ><button class="nav-button" data-go="training">
+        ◇<span>Training</span></button
+      ><button class="nav-button" data-go="review">▤<span>Review</span></button
+      ><button class="nav-button" data-go="more">☰<span>More</span></button>
+    </nav>
+    <noscript
+      ><p>
+        This app needs JavaScript enabled for navigation and interactive
+        features.
+      </p></noscript
+    >
+    <script>
+      if (!location.hash) history.replaceState(null, "", "#mission");
+    </script>
+    <script src="src/legacy-content.js"></script>
+    <script src="src/legacy-app.js"></script>
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>

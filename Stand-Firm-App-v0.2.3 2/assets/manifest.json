@@ -1,0 +1,38 @@
+[
+  {
+    "path": "assets/original-1.png",
+    "mime": "image/png",
+    "sha256": "eb29405b2abf278c728957722efd81236e77858138abd844d87224ebadbe4028",
+    "status": "original preview icon",
+    "provenance": "Recovered without modification from user-provided stand-firm-preview.html. Prior creator describes audio as original demo loops; independent license documentation not supplied."
+  },
+  {
+    "path": "assets/original-2.png",
+    "mime": "image/png",
+    "sha256": "be3575ff38d4921e32084f2646cd25f03f2284fed3f3aa8fb2a0f42b3ac4a945",
+    "status": "original preview icon",
+    "provenance": "Recovered without modification from user-provided stand-firm-preview.html. Prior creator describes audio as original demo loops; independent license documentation not supplied."
+  },
+  {
+    "path": "assets/original-3.wav",
+    "mime": "audio/wav",
+    "sha256": "7879f388c41511395cdec8c6ce610653bef0729540eb6b5c67b2ad0a9f6585fb",
+    "status": "original preview demo",
+    "provenance": "Recovered without modification from user-provided stand-firm-preview.html. Prior creator describes audio as original demo loops; independent license documentation not supplied."
+  },
+  {
+    "path": "assets/original-4.wav",
+    "mime": "audio/wav",
+    "sha256": "3dbe2de7608c761f913c5fb6edfb5af299f64d247a5d52d8b98fa4288dbaaffc",
+    "status": "original preview demo",
+    "provenance": "Recovered without modification from user-provided stand-firm-preview.html. Prior creator describes audio as original demo loops; independent license documentation not supplied."
+  },
+  {
+    "path": "assets/focus-demo.wav",
+    "mime": "audio/wav",
+    "sha256": "7490a1bc859e2f20b54c23c450628afb931aae66b7a2a93d639d928b72ba885a",
+    "status": "Original generated ambient demo loop, not finished music",
+    "provenance": "Deterministic sine-wave composition authored for this release; no third-party samples. Generator included in docs.",
+    "license": "CC0-1.0 dedication for this generated asset"
+  }
+]

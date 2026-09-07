@@ -1,0 +1,872 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "mission-01",
+    "title": "Begin with what is true",
+    "scriptureId": "ps13923",
+    "briefing": "Before you plan the day, name where you actually are.",
+    "teaching": "Before you plan the day, name where you actually are. God does not need a polished report. Recognize the feeling beneath your first reaction; an honest starting point makes a responsible next step possible.",
+    "reflection": "What feeling am I tempted to hide behind busyness?",
+    "objectives": [
+      {
+        "id": "mission-01-0",
+        "category": "Faith",
+        "text": "Pray honestly about one feeling you have today.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-01-1",
+        "category": "Responsibility",
+        "text": "Write the most important responsibility you can realistically finish.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-01-2",
+        "category": "Life",
+        "text": "Give someone close to you a truthful, unhurried answer when they ask how you are.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-02",
+    "title": "Listen all the way through",
+    "scriptureId": "james119",
+    "briefing": "Listening requires giving up the next sentence you were preparing.",
+    "teaching": "Listening requires giving up the next sentence you were preparing. Today, let another person's account arrive before defending your own. Understanding does not require agreement, but it makes disagreement more humane.",
+    "reflection": "What do I assume I already know about someone else's experience?",
+    "objectives": [
+      {
+        "id": "mission-02-0",
+        "category": "Faith",
+        "text": "Read James 1:19 and sit quietly for one minute.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-02-1",
+        "category": "Responsibility",
+        "text": "Finish one conversation before checking your phone.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-02-2",
+        "category": "Life",
+        "text": "Ask a family member one open question and summarize what you heard.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-03",
+    "title": "A promise that fits",
+    "scriptureId": "luke1610",
+    "briefing": "A smaller promise kept can rebuild trust better than a dramatic promise abandoned.",
+    "teaching": "A smaller promise kept can rebuild trust better than a dramatic promise abandoned. Separate what you wish you could offer from the time and capacity you have. Let your yes have a realistic shape.",
+    "reflection": "Which promise needs to become more specific or more honest?",
+    "objectives": [
+      {
+        "id": "mission-03-0",
+        "category": "Faith",
+        "text": "Ask God for integrity in a commitment you are making.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-03-1",
+        "category": "Responsibility",
+        "text": "Choose one pending promise and set a realistic time to do it.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-03-2",
+        "category": "Life",
+        "text": "Tell the person affected if an existing deadline needs to change.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-04",
+    "title": "Make space for rest",
+    "scriptureId": "mark631",
+    "briefing": "Rest supports attention, patience, and service.",
+    "teaching": "Rest supports attention, patience, and service. It need not be earned by finishing every task. Choose a pause that restores you rather than one that leaves you more distracted, and protect it without guilt.",
+    "reflection": "What kind of rest would help me return with more presence?",
+    "objectives": [
+      {
+        "id": "mission-04-0",
+        "category": "Faith",
+        "text": "Read Mark 6:31 and pray without a performance goal.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-04-1",
+        "category": "Responsibility",
+        "text": "Set a clear stopping time for today's work.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-04-2",
+        "category": "Life",
+        "text": "Take ten comfortable minutes away from work and screens.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-05",
+    "title": "Repair one small breach",
+    "scriptureId": "eph432",
+    "briefing": "Repair begins with naming your behavior, not explaining why someone else caused it.",
+    "teaching": "Repair begins with naming your behavior, not explaining why someone else caused it. Forgiveness and reconciliation are different; no one owes immediate access or trust. Choose a safe, proportionate way to take responsibility.",
+    "reflection": "What can I own without demanding a particular response?",
+    "objectives": [
+      {
+        "id": "mission-05-0",
+        "category": "Faith",
+        "text": "Pray for humility about one mistake.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-05-1",
+        "category": "Responsibility",
+        "text": "Write a specific apology that contains no excuse.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-05-2",
+        "category": "Life",
+        "text": "Offer that apology if contact is safe and welcome; otherwise respect the boundary.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-06",
+    "title": "Presence at home",
+    "scriptureId": "col321",
+    "briefing": "Leading a family includes learning what family members experience around you.",
+    "teaching": "Leading a family includes learning what family members experience around you. Presence is attention they can feel. Put aside correction for a few minutes and notice their interests, worries, or delight.",
+    "reflection": "When do people at home experience me as available?",
+    "objectives": [
+      {
+        "id": "mission-06-0",
+        "category": "Faith",
+        "text": "Pray for one family member by name.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-06-1",
+        "category": "Responsibility",
+        "text": "Move one avoidable distraction out of shared time.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-06-2",
+        "category": "Life",
+        "text": "Spend ten uninterrupted minutes with a child or loved one, following their interest.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-07",
+    "title": "Release the outcome",
+    "scriptureId": "prov35",
+    "briefing": "Responsible planning cannot guarantee another person's response.",
+    "teaching": "Responsible planning cannot guarantee another person's response. Separate your preparation from the result you hope for. Trust can coexist with careful work and unanswered questions.",
+    "reflection": "Which outcome have I been treating as entirely mine to control?",
+    "objectives": [
+      {
+        "id": "mission-07-0",
+        "category": "Faith",
+        "text": "Name one uncertainty honestly in prayer.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-07-1",
+        "category": "Responsibility",
+        "text": "Make two columns: my responsibility and beyond my control.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-07-2",
+        "category": "Life",
+        "text": "Take the next useful step on one item in the first column.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-08",
+    "title": "Serve without an audience",
+    "scriptureId": "micah68",
+    "briefing": "Service does not need to become a story about your generosity.",
+    "teaching": "Service does not need to become a story about your generosity. Notice a real need and respond with respect. Ask before assuming what would help, and choose something within your means.",
+    "reflection": "Who might need something different from what I first assumed?",
+    "objectives": [
+      {
+        "id": "mission-08-0",
+        "category": "Faith",
+        "text": "Reflect on justice, mercy, and humility in Micah 6:8.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-08-1",
+        "category": "Responsibility",
+        "text": "Complete one neglected task in a shared space.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-08-2",
+        "category": "Life",
+        "text": "Ask someone what small practical help would be useful today.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-09",
+    "title": "Pause before sending",
+    "scriptureId": "prov1632",
+    "briefing": "A message written in anger can outlive the emotion that produced it.",
+    "teaching": "A message written in anger can outlive the emotion that produced it. Recognize your physical cues and create room before acting. Your concern may deserve a conversation; it does not need a threat or humiliation.",
+    "reflection": "What signal tells me to pause before I speak or send?",
+    "objectives": [
+      {
+        "id": "mission-09-0",
+        "category": "Faith",
+        "text": "Ask God for self-control in a current frustration.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-09-1",
+        "category": "Responsibility",
+        "text": "Save a heated message as a draft and revisit it later.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-09-2",
+        "category": "Life",
+        "text": "Rewrite one complaint as a clear request without insults.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-10",
+    "title": "Do the next piece",
+    "scriptureId": "james122",
+    "briefing": "Reading about change can feel like change while leaving the task untouched.",
+    "teaching": "Reading about change can feel like change while leaving the task untouched. Give today's lesson a concrete expression. The action can be small enough to start immediately and clear enough to recognize when finished.",
+    "reflection": "Where have I substituted preparation for practice?",
+    "objectives": [
+      {
+        "id": "mission-10-0",
+        "category": "Faith",
+        "text": "Read James 1:22 and identify one application.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-10-1",
+        "category": "Responsibility",
+        "text": "Work for ten focused minutes on an avoided responsibility.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-10-2",
+        "category": "Life",
+        "text": "Tell a trusted person what you actually completed, without inflating it.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-11",
+    "title": "Steady work",
+    "scriptureId": "col323",
+    "briefing": "Careful work is a form of service to people who depend on the result.",
+    "teaching": "Careful work is a form of service to people who depend on the result. Choose quality in a bounded task rather than exhaustion as proof of worth. Finish, check, and leave the work in a usable state.",
+    "reflection": "Who benefits when I do this ordinary task carefully?",
+    "objectives": [
+      {
+        "id": "mission-11-0",
+        "category": "Faith",
+        "text": "Pray for a willing heart in today's ordinary work.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-11-1",
+        "category": "Responsibility",
+        "text": "Finish and check one defined piece of work.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-11-2",
+        "category": "Life",
+        "text": "Leave clear notes for the next person who needs it.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-12",
+    "title": "Ask for counsel",
+    "scriptureId": "prov1522",
+    "briefing": "Seeking advice is an act of judgment.",
+    "teaching": "Seeking advice is an act of judgment. A useful adviser knows the subject, can hear inconvenient facts, and respects your agency. Bring a specific question instead of asking someone else to live your life.",
+    "reflection": "What information would change my current decision?",
+    "objectives": [
+      {
+        "id": "mission-12-0",
+        "category": "Faith",
+        "text": "Ask God for wisdom and openness to correction.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-12-1",
+        "category": "Responsibility",
+        "text": "Write the facts and uncertainties of one decision.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-12-2",
+        "category": "Life",
+        "text": "Ask a suitable trusted person one focused question.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-13",
+    "title": "Return after a miss",
+    "scriptureId": "prov2416",
+    "briefing": "A missed commitment is information about an action, not a verdict on your worth.",
+    "teaching": "A missed commitment is information about an action, not a verdict on your worth. Review what made it difficult. Choose a smaller next attempt or revise an unrealistic promise instead of hiding the miss.",
+    "reflection": "What adjustment would make the next attempt more workable?",
+    "objectives": [
+      {
+        "id": "mission-13-0",
+        "category": "Faith",
+        "text": "Pray honestly about a disappointment without calling yourself names.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-13-1",
+        "category": "Responsibility",
+        "text": "Identify one obstacle from a missed commitment.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-13-2",
+        "category": "Life",
+        "text": "Restart one habit at a size that fits today's capacity.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-14",
+    "title": "Make room for grief",
+    "scriptureId": "ps3418",
+    "briefing": "Loss does not follow a productivity schedule.",
+    "teaching": "Loss does not follow a productivity schedule. You can name what is missing without finding a silver lining. Today, choose care and connection while allowing your feelings to be unfinished.",
+    "reflection": "What do I miss that I have not given myself space to name?",
+    "objectives": [
+      {
+        "id": "mission-14-0",
+        "category": "Faith",
+        "text": "Bring a memory or wordless sadness to God.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-14-1",
+        "category": "Responsibility",
+        "text": "Reduce or reschedule one nonessential demand if needed.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-14-2",
+        "category": "Life",
+        "text": "Ask a trusted person for company or a check-in.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-15",
+    "title": "One day of attention",
+    "scriptureId": "matt634",
+    "briefing": "Future concerns deserve a place in your plan, but they need not occupy every moment.",
+    "teaching": "Future concerns deserve a place in your plan, but they need not occupy every moment. Separate preparation from repetitive worry. Write the next scheduled step, then return to the responsibility in front of you.",
+    "reflection": "Which future concern needs a plan rather than another hour of worry?",
+    "objectives": [
+      {
+        "id": "mission-15-0",
+        "category": "Faith",
+        "text": "Name tomorrow's concern in prayer.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-15-1",
+        "category": "Responsibility",
+        "text": "Schedule a brief time to address one future obligation.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-15-2",
+        "category": "Life",
+        "text": "Complete one useful task for today before revisiting the plan.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-16",
+    "title": "Strength through connection",
+    "scriptureId": "eccl49",
+    "briefing": "Isolation can make ordinary burdens harder to carry.",
+    "teaching": "Isolation can make ordinary burdens harder to carry. Asking for company does not require a crisis or a polished explanation. Mutual support grows through specific invitations and honest follow-through.",
+    "reflection": "Who could I reach toward without pretending everything is fine?",
+    "objectives": [
+      {
+        "id": "mission-16-0",
+        "category": "Faith",
+        "text": "Pray for someone you have lost touch with.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-16-1",
+        "category": "Responsibility",
+        "text": "Send a concrete invitation with a proposed time.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-16-2",
+        "category": "Life",
+        "text": "Offer to listen to that person's week as well as share your own.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-17",
+    "title": "Notice the good",
+    "scriptureId": "gal522",
+    "briefing": "Growth can be quiet: a patient answer, a kind interruption, a moment of restraint.",
+    "teaching": "Growth can be quiet: a patient answer, a kind interruption, a moment of restraint. Notice the character you want to practice without turning it into a score. Gratitude can direct your attention without denying hardship.",
+    "reflection": "Where did I see kindness today, even briefly?",
+    "objectives": [
+      {
+        "id": "mission-17-0",
+        "category": "Faith",
+        "text": "Thank God for one specific act of goodness.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-17-1",
+        "category": "Responsibility",
+        "text": "Write down one helpful action someone took.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-17-2",
+        "category": "Life",
+        "text": "Thank that person directly and specifically.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-18",
+    "title": "Choose your focus",
+    "scriptureId": "prov425",
+    "briefing": "A crowded day needs a chosen direction.",
+    "teaching": "A crowded day needs a chosen direction. Recognize which interruptions are necessary and which are habits. Protect a modest period for important work, then return to others with your attention available.",
+    "reflection": "What deserves my undivided attention for the next fifteen minutes?",
+    "objectives": [
+      {
+        "id": "mission-18-0",
+        "category": "Faith",
+        "text": "Pray briefly before beginning a focused task.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-18-1",
+        "category": "Responsibility",
+        "text": "Remove one optional distraction for fifteen minutes.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-18-2",
+        "category": "Life",
+        "text": "Complete a bounded task that helps your household or workplace.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-19",
+    "title": "A boundary with respect",
+    "scriptureId": "rom1218",
+    "briefing": "Peace does not require unlimited availability or accepting mistreatment.",
+    "teaching": "Peace does not require unlimited availability or accepting mistreatment. A respectful boundary explains what you will do without trying to control another person. Safety takes priority over resolving a disagreement today.",
+    "reflection": "Where would a clear limit reduce resentment?",
+    "objectives": [
+      {
+        "id": "mission-19-0",
+        "category": "Faith",
+        "text": "Pray for courage and gentleness in speaking clearly.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-19-1",
+        "category": "Responsibility",
+        "text": "Write one boundary as an action you can carry out.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-19-2",
+        "category": "Life",
+        "text": "Communicate a reasonable limit if it is safe to do so.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-20",
+    "title": "Use time on purpose",
+    "scriptureId": "ps905",
+    "briefing": "Your time is finite, but your worth is not measured by how much you fit into it.",
+    "teaching": "Your time is finite, but your worth is not measured by how much you fit into it. Choose an activity that reflects what matters. A calendar can express your values through both commitments and protected space.",
+    "reflection": "What does my calendar say matters, and what is missing?",
+    "objectives": [
+      {
+        "id": "mission-20-0",
+        "category": "Faith",
+        "text": "Read Psalm 90:12 slowly.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-20-1",
+        "category": "Responsibility",
+        "text": "Reserve a realistic time for one important goal.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-20-2",
+        "category": "Life",
+        "text": "Protect time for a relationship or act of service this week.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-21",
+    "title": "Patience in uncertainty",
+    "scriptureId": "ps2714",
+    "briefing": "Waiting can still include useful action.",
+    "teaching": "Waiting can still include useful action. Distinguish a decision that is ready from one that needs information. While you wait, tend the responsibilities already entrusted to you.",
+    "reflection": "What useful preparation can I do without forcing an answer?",
+    "objectives": [
+      {
+        "id": "mission-21-0",
+        "category": "Faith",
+        "text": "Pray about something you cannot hurry.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-21-1",
+        "category": "Responsibility",
+        "text": "Identify what information or date you are waiting for.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-21-2",
+        "category": "Life",
+        "text": "Complete one ordinary responsibility while the larger matter remains open.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-22",
+    "title": "Care for your capacity",
+    "scriptureId": "matt1128",
+    "briefing": "Your body and attention have limits.",
+    "teaching": "Your body and attention have limits. Honoring those limits can be responsible stewardship. Choose a routine that supports your real circumstances, including recovery and any guidance from your care team.",
+    "reflection": "What limitation needs acknowledgment rather than a contest?",
+    "objectives": [
+      {
+        "id": "mission-22-0",
+        "category": "Faith",
+        "text": "Bring your weariness to God in prayer.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-22-1",
+        "category": "Responsibility",
+        "text": "Set a manageable evening stopping time.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-22-2",
+        "category": "Life",
+        "text": "Choose a comfortable rest or movement option within your own limits.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-23",
+    "title": "Facts before fear",
+    "scriptureId": "james15",
+    "briefing": "Pressure can blend what happened with what you predict will happen.",
+    "teaching": "Pressure can blend what happened with what you predict will happen. Recognize the difference on paper. Wise action starts with checked information and leaves room for uncertainty.",
+    "reflection": "Which statement in my mind is a prediction rather than a fact?",
+    "objectives": [
+      {
+        "id": "mission-23-0",
+        "category": "Faith",
+        "text": "Ask God for wisdom about one concern.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-23-1",
+        "category": "Responsibility",
+        "text": "Write three verified facts and one unanswered question.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-23-2",
+        "category": "Life",
+        "text": "Find a reliable answer to that question or ask an appropriate adviser.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-24",
+    "title": "Give credit freely",
+    "scriptureId": "heb1024",
+    "briefing": "Encouragement is most useful when it names something real.",
+    "teaching": "Encouragement is most useful when it names something real. Notice another person's effort without comparing it with your own. A specific acknowledgment can strengthen trust and make invisible work visible.",
+    "reflection": "Whose contribution have I benefited from without recognizing it?",
+    "objectives": [
+      {
+        "id": "mission-24-0",
+        "category": "Faith",
+        "text": "Pray for someone whose work supports your life.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-24-1",
+        "category": "Responsibility",
+        "text": "Name one contribution accurately.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-24-2",
+        "category": "Life",
+        "text": "Thank them with a concrete example of how it helped.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-25",
+    "title": "Practice contentment",
+    "scriptureId": "phil413",
+    "briefing": "Paul's words about strength appear in a discussion of changing circumstances and contentment.",
+    "teaching": "Paul's words about strength appear in a discussion of changing circumstances and contentment. They are not a guarantee of winning every contest. Today, choose faithful action within what you actually have.",
+    "reflection": "What comparison is making it harder to use today's resources wisely?",
+    "objectives": [
+      {
+        "id": "mission-25-0",
+        "category": "Faith",
+        "text": "Read Philippians 4:11–13 in context.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-25-1",
+        "category": "Responsibility",
+        "text": "List the time and resources available for one task.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-25-2",
+        "category": "Life",
+        "text": "Take a useful step without buying something to feel ready.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-26",
+    "title": "Lower the temperature",
+    "scriptureId": "james119",
+    "briefing": "When conversation becomes fast and defensive, understanding tends to shrink.",
+    "teaching": "When conversation becomes fast and defensive, understanding tends to shrink. Slow your response and check what you heard. A pause can protect the relationship while keeping the issue on the table.",
+    "reflection": "What would change if I asked one clarifying question first?",
+    "objectives": [
+      {
+        "id": "mission-26-0",
+        "category": "Faith",
+        "text": "Pray for patience before a hard conversation.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-26-1",
+        "category": "Responsibility",
+        "text": "Write your main concern in one nonaccusing sentence.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-26-2",
+        "category": "Life",
+        "text": "Ask for a suitable time to talk and listen before explaining.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-27",
+    "title": "Tell the truth early",
+    "scriptureId": "luke1610",
+    "briefing": "Small concealments make ordinary problems harder to repair.",
+    "teaching": "Small concealments make ordinary problems harder to repair. If you cannot meet a commitment, say so while others still have options. Honesty works best when paired with a realistic next step.",
+    "reflection": "What update am I delaying because it feels uncomfortable?",
+    "objectives": [
+      {
+        "id": "mission-27-0",
+        "category": "Faith",
+        "text": "Ask God for courage to be truthful.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-27-1",
+        "category": "Responsibility",
+        "text": "Send an accurate update on one outstanding responsibility.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-27-2",
+        "category": "Life",
+        "text": "Propose a feasible next step and invite the other person's input.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-28",
+    "title": "Offer mercy to yourself",
+    "scriptureId": "ps46",
+    "briefing": "Supportive self-talk does not erase responsibility.",
+    "teaching": "Supportive self-talk does not erase responsibility. It makes room to face it without contempt. Speak to yourself as someone capable of learning, then choose the action that helps rather than the punishment that proves regret.",
+    "reflection": "What would an honest but merciful account of today sound like?",
+    "objectives": [
+      {
+        "id": "mission-28-0",
+        "category": "Faith",
+        "text": "Pray with Psalm 46:1 in mind.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-28-1",
+        "category": "Responsibility",
+        "text": "Replace one global self-judgment with a description of an action.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-28-2",
+        "category": "Life",
+        "text": "Make one practical correction instead of replaying the mistake.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-29",
+    "title": "Act on your values",
+    "scriptureId": "micah68",
+    "briefing": "Values become visible in ordinary choices about time, money, attention, and speech.",
+    "teaching": "Values become visible in ordinary choices about time, money, attention, and speech. Choose one value and give it a concrete expression today. Keep the action small enough to finish and meaningful enough to matter.",
+    "reflection": "Which value needs evidence in my actions today?",
+    "objectives": [
+      {
+        "id": "mission-29-0",
+        "category": "Faith",
+        "text": "Reflect on one phrase from Micah 6:8.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-29-1",
+        "category": "Responsibility",
+        "text": "Write a value and a specific action that expresses it.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-29-2",
+        "category": "Life",
+        "text": "Carry out that action for someone affected by your choices.",
+        "carryAllowed": true
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "mission-30",
+    "title": "Review with hope",
+    "scriptureId": "1pet57",
+    "briefing": "Review is a chance to learn, not to prosecute yourself.",
+    "teaching": "Review is a chance to learn, not to prosecute yourself. Notice what you did, what you avoided, and what support would help. Bring the unfinished parts to God and choose one realistic focus for the week ahead.",
+    "reflection": "What should I continue, change, or ask help with next week?",
+    "objectives": [
+      {
+        "id": "mission-30-0",
+        "category": "Faith",
+        "text": "Bring one unresolved concern to God.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-30-1",
+        "category": "Responsibility",
+        "text": "Complete a weekly review using facts rather than labels.",
+        "carryAllowed": true
+      },
+      {
+        "id": "mission-30-2",
+        "category": "Life",
+        "text": "Choose one manageable next-week action and schedule it.",
+        "carryAllowed": true
+      }
+    ]
+  }
+]
